@@ -1,7 +1,7 @@
 # Python-projet
 🔍 Mini Web Scanner Python
 
-📌 Description
+📌 Description :
 Petit outil de cybersécurité en Python permettant d’envoyer une requête HTTP vers une URL et d’analyser le code de réponse du serveur.
 
 🎯 Objectif :
